@@ -48,7 +48,7 @@ workplace, in order to get most of their employees to stay. We are required to m
 3. Conduct EDA (Exploratory Data Analysis) on the cleaned Data: Summarize, explore the data and then decide your strategy. Make note of any important assumptions that you make.
 4. Uni-variate and Bi-variate Analysis: Check the distribution of independent variables and also compare them with the dependent variable.
 5. Feature Engineering: Create new meaningful features based on the existing features by applying some aggregation functions on them.
-6. Identify the most important variables (or data parameters) that affect the final decision: Identify the impact of each variable on the final result graphically (correlation / scatter plots, regression plots, etc.). Keep those variables that affect the final outcome.
+6. Identify the most important variables (or data parameters) that affect the final decision using statistical testing (ANOVA test, Chi-square test and correlation / scatterplots). Keep those variables that affect the final outcome.
 7. Develop and Validate Samples: Divide samples into 2 parts: Development Sample (70%) & Validation Sample (30%). Build your analysis model using the Development Sample, and validate it on the validation sample and then predict on test sample.
 8. Model Building: Analyze the dependent variable and decide which technique out of regression or classification to use and hence build the model.
 9. Improving model accuracy: Perform various iterations by eliminating or adding the variables to see if the model accuracy is improving or not. Also, you can apply various transformation like log transformation on dependent variable or independent variables or both to improve accuracy.
