@@ -4,7 +4,7 @@
 * Goal : To understand what factors they should focus on, in order to curb attrition in the company. In other words, they want to know what changes they should make to their
 workplace, in order to get most of their employees to stay.
 
-![image](https://user-images.githubusercontent.com/88396377/141606275-02301ea8-e72d-4c3c-8761-a150621f75e4.png)
+![Capture](https://user-images.githubusercontent.com/88396377/141606408-27d9732a-7072-4c8d-a02e-64138c977a51.PNG)
 
 * We are required to model the probability of attrition using a Logistic Regression. The results obtained will be used by the management to understand what changes they should make to their workplace. We will also model the probability of attrition using different classifiers like Random Forest, SVM, etc for better results.
 
