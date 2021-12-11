@@ -54,6 +54,7 @@ workplace, in order to get most of their employees to stay. We are required to m
 9. Improving model accuracy: Perform various iterations by eliminating or adding the variables to see if the model accuracy is improving or not. Also, you can apply various transformation like log transformation on dependent variable or independent variables or both to improve accuracy.
 10. Model Comparison: Comparing the chosen model with other similar models that could have been used in this project
 
+Link to my article: https://medium.com/@1512aliahmad/phoenix-global-employee-attrition-analysis-and-predictive-modeling-2da11d755d58
 
 ![Attrition](https://user-images.githubusercontent.com/88396377/141606238-3a38a985-52ef-48d1-8fb7-17aa6fe65200.jpg)
 
