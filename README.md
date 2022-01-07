@@ -42,7 +42,7 @@ workplace, in order to get most of their employees to stay. We are required to m
 * YearsSinceLastPromotion : Number of years since last promotion	
 * YearsWithCurrManager : Number of years under current manager	
 
-### Approach & Steps:
+### Approach & Steps :
 1. Understand the data variables properly. Refer to above the variable description.
 2. Clean the data: Clean the data, that is, fill the missing values (if any), treat the outliers (or odd values), etc. Ensure each variable’s data is as per the nature of the variable (eg – Date field should contain only date values, numeric column should be formatted as numeric, etc.).
 3. Conduct EDA (Exploratory Data Analysis) on the cleaned Data: Summarize, explore the data and then decide your strategy. Make note of any important assumptions that you make.
