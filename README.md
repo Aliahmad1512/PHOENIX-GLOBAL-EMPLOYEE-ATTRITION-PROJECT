@@ -9,7 +9,7 @@ Phoenix Global has been facing the issue of constant employee attrition Close to
 To understand what factors they should focus on, in order to curb attrition in the company. In other words, they want to know what changes they should make to their
 workplace, in order to get most of their employees to stay. We are required to model the probability of attrition using a Logistic Regression. The results obtained will be used by the management to understand what changes they should make to their workplace. We will also model the probability of attrition using different classifiers like Random Forest, SVM, etc for better results.
 
-### Variable Description
+### Variable Description:
 
 * Age : Age of the employee	
 * Attrition : Whether the employee left in the previous year or not	
